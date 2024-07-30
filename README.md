@@ -1,4 +1,4 @@
-# CarLot Project
+# CarLot
 
 ## Overview
 
